@@ -1,0 +1,27 @@
+
+.walrus-hidden {
+  display: none;
+  position: fixed;
+}
+
+.walrus-third {
+  display: none;
+  position: fixed;
+}
+
+.walrus-showing {
+  position: fixed;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+img {
+  width: 400px;
+}
